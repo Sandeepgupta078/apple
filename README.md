@@ -1,4 +1,4 @@
-# Octanet service pvt. ltd. - Landing Page Apple 
+# Octanet service pvt. ltd. -  Apple Landing Page
 - OctaNet Services Pvt Ltd.
 - web development internship
 
